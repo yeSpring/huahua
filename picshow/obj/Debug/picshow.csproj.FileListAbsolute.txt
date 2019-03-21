@@ -1,0 +1,9 @@
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\bin\Debug\picshow.exe.config
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\bin\Debug\picshow.exe
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\bin\Debug\picshow.pdb
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\obj\Debug\picshow.csprojResolveAssemblyReference.cache
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\obj\Debug\picshow.Form1.resources
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\obj\Debug\picshow.Properties.Resources.resources
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\obj\Debug\picshow.csproj.GenerateResource.Cache
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\obj\Debug\picshow.exe
+F:\IotLab\Color_Recognition\pictureShow\picshow\picshow\obj\Debug\picshow.pdb
